@@ -1,0 +1,38 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Pheasantail Radio",
+    "description": "",
+    "home_page_url": "https://junelee220.github.io/pheasantailradio",
+    "feed_url": "https://junelee220.github.io/pheasantailradio/feed.json",
+    "user_comment": "",
+    "icon": "https://junelee220.github.io/pheasantailradio/media/website/rp-logo-3.png",
+    "author": {
+        "name": "pheasantail radio"
+    },
+    "items": [
+        {
+            "id": "https://junelee220.github.io/pheasantailradio/zhi-wei-dian-tai-02/",
+            "url": "https://junelee220.github.io/pheasantailradio/zhi-wei-dian-tai-02/",
+            "title": "雉尾电台第二期",
+            "author": {
+                "name": "pheasantail radio"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-08-03T00:52:03+08:00",
+            "date_modified": "2021-08-03T00:52:33+08:00"
+        },
+        {
+            "id": "https://junelee220.github.io/pheasantailradio/zhi-wei-dian-tai-01/",
+            "url": "https://junelee220.github.io/pheasantailradio/zhi-wei-dian-tai-01/",
+            "title": "雉尾电台第一期",
+            "author": {
+                "name": "pheasantail radio"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-08-03T00:44:48+08:00",
+            "date_modified": "2021-08-03T00:52:24+08:00"
+        }
+    ]
+}
