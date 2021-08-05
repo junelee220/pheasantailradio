@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Pheasantail Radio</title>
-    <link href="https://junelee220.github.io/pheasantailradio/feed.xml" rel="self" />
-    <link href="https://junelee220.github.io/pheasantailradio" />
+    <link href="https://pheasantail.stream/feed.xml" rel="self" />
+    <link href="https://pheasantail.stream" />
     <updated>2021-08-03T00:52:33+08:00</updated>
     <author>
         <name>pheasantail radio</name>
     </author>
-    <id>https://junelee220.github.io/pheasantailradio</id>
+    <id>https://pheasantail.stream</id>
 
     <entry>
         <title>雉尾电台第二期</title>
         <author>
             <name>pheasantail radio</name>
         </author>
-        <link href="https://junelee220.github.io/pheasantailradio/zhi-wei-dian-tai-02/"/>
-        <id>https://junelee220.github.io/pheasantailradio/zhi-wei-dian-tai-02/</id>
+        <link href="https://pheasantail.stream/zhi-wei-dian-tai-02/"/>
+        <id>https://pheasantail.stream/zhi-wei-dian-tai-02/</id>
 
         <updated>2021-08-03T00:52:33+08:00</updated>
             <summary></summary>
@@ -26,8 +26,8 @@
         <author>
             <name>pheasantail radio</name>
         </author>
-        <link href="https://junelee220.github.io/pheasantailradio/zhi-wei-dian-tai-01/"/>
-        <id>https://junelee220.github.io/pheasantailradio/zhi-wei-dian-tai-01/</id>
+        <link href="https://pheasantail.stream/zhi-wei-dian-tai-01/"/>
+        <id>https://pheasantail.stream/zhi-wei-dian-tai-01/</id>
 
         <updated>2021-08-03T00:52:24+08:00</updated>
             <summary></summary>

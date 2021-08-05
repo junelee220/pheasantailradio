@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://junelee220.github.io/pheasantailradio/sitemap.xml
+Sitemap: https://pheasantail.stream/sitemap.xml
