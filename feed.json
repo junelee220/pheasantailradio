@@ -14,25 +14,29 @@
             "id": "https://pheasantail.stream/zhi-wei-dian-tai-02/",
             "url": "https://pheasantail.stream/zhi-wei-dian-tai-02/",
             "title": "雉尾电台第二期",
+            "summary": "test",
+            "content_html": "<p>test</p>",
             "author": {
                 "name": "pheasantail radio"
             },
             "tags": [
             ],
             "date_published": "2021-08-03T00:52:03+08:00",
-            "date_modified": "2021-08-03T00:52:33+08:00"
+            "date_modified": "2021-08-05T19:32:30+08:00"
         },
         {
             "id": "https://pheasantail.stream/zhi-wei-dian-tai-01/",
             "url": "https://pheasantail.stream/zhi-wei-dian-tai-01/",
             "title": "雉尾电台第一期",
+            "summary": "test",
+            "content_html": "<p>test</p>",
             "author": {
                 "name": "pheasantail radio"
             },
             "tags": [
             ],
             "date_published": "2021-08-03T00:44:48+08:00",
-            "date_modified": "2021-08-03T00:52:24+08:00"
+            "date_modified": "2021-08-05T19:32:25+08:00"
         }
     ]
 }
